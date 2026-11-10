@@ -4,3 +4,8 @@ node_modules/
 clients-build.*
 # logo drafts
 branding/concepts/
+# dev notes, kept locally
+DESIGN.md
+ESTIMATE.md
+TESTING.md
+env.sh
